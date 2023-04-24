@@ -1,0 +1,2 @@
+# PagesExample
+Class Example
